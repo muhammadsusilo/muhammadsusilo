@@ -7,8 +7,11 @@ Hi ,My Name is Muhammad Susilo. I undergraduate Terbuka University with major a 
 ### About My Skills
 #### Languages and Tools
 - JavaScript
+- React JS
 - HTML 5
 - CSS 3
+- Tailwind
+- Saas
   
 ####  Tools
 - Git
