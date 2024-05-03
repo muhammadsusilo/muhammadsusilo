@@ -23,5 +23,3 @@ https://msusilo.netlify.app/
 [<img align="left" alt="Linkedin" width="30px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" style="padding-right:10px;" />](https://www.linkedin.com/in/muhammadsusilo/)
 
 [<img align="left" alt="Instagram" width="30px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" style="padding-right:10px;" />](https://www.instagram.com/muhammadsusiloo?igsh=a2Z6Y3gzY3FxdWdu)
-
-
